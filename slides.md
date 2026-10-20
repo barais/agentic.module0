@@ -24,7 +24,7 @@ download: true
 duration: 3min
 ---
 
-# Module 0 : Module Agentique
+# Module Agentique
 ## 
 
 
@@ -35,7 +35,8 @@ image: /img/olivierbarais.png
 
 # Olivier Barais
 
-**Prof. @Univ. Rennes — IRISA**
+**Prof. @Univ. Rennes — IRISA**,  [🌐](https://olivier.barais.fr)
+
 
 ## Mes domaines d'expertise
 
@@ -45,6 +46,8 @@ image: /img/olivierbarais.png
 - 🌐 Distributed systems
 - ☁️ Cloud computing
 - 📐 Model-driven engineering
+
+
 
 
 
@@ -111,7 +114,7 @@ del { color: red; text-decoration-thickness: 3px; }
 layout: default
 ---
 
-# 📋 Plan de la présentation
+# 📋 Plan du module
 
 <br/>
 
