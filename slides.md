@@ -143,7 +143,7 @@ layout: default
 
 ### 5-8 · Construction & Usage
 
-**5. Technologie & infrastructure** — *Savoir construire (frameworks, MCP, mémoire, harnais, skills)*
+**5. Technologie & infrastructure** — *Savoir construire (MCP, harnais, skills, mémoire)*
 → [module 5](https://olivier.barais.fr/agentic.module5)
 
 **6. Agents pour le développement logiciel** — *Usage concret en dev*
