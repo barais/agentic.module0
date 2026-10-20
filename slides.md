@@ -126,16 +126,16 @@ layout: default
 ### 1-4 · Fondations
 
 **1. Grands modèles de langage (fondations)** — *Comprendre l'outil de base des agents*
-→ [module1](https://olivier.barais.fr/agentic.module1)
+→ [module 1](https://olivier.barais.fr/agentic.module1)
 
 **2. Introduction à l'agentique** — *Définir ce qu'est un agent vs un chatbot*
-→ [module2](https://olivier.barais.fr/agentic.module2)
+→ [module 2](https://olivier.barais.fr/agentic.module2)
 
 **3. Anatomie d'un agent** — *Décortiquer les briques internes*
-→ [module3](https://olivier.barais.fr/agentic.module3)
+→ [module 3](https://olivier.barais.fr/agentic.module3)
 
 **4. Les 4 patrons de conception agentiques** — *Maîtriser les patterns fondamentaux*
-→ [module4](https://olivier.barais.fr/agentic.module4)
+→ [module 4](https://olivier.barais.fr/agentic.module4)
 
 </div>
 
@@ -144,16 +144,16 @@ layout: default
 ### 5-8 · Construction & Usage
 
 **5. Technologie & infrastructure** — *Savoir construire (frameworks, MCP, mémoire, harnais, skills)*
-→ [module5](https://olivier.barais.fr/agentic.module5)
+→ [module 5](https://olivier.barais.fr/agentic.module5)
 
 **6. Agents pour le développement logiciel** — *Usage concret en dev*
-→ [module6](https://olivier.barais.fr/agentic.module6)
+→ [module 6](https://olivier.barais.fr/agentic.module6)
 
 **7. Agents pour la recherche** — *Usage concret en science*
-→ [module7](https://olivier.barais.fr/agentic.module7)
+→ [module 7](https://olivier.barais.fr/agentic.module7)
 
 **8. Évaluation, sécurité, limites** — *Déployer de façon fiable et responsable*
-→ [module8](https://olivier.barais.fr/agentic.module8)
+→ [module 8](https://olivier.barais.fr/agentic.module8)
 
 </div>
 
