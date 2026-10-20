@@ -65,7 +65,8 @@ layout: default
 
 # ~~AI~~ Researcher ?
 
-> **Je ne suis pas un chercheur en IA.**
+
+> ⚠️ **Je ne suis pas un chercheur en IA.**
 
 Mes travaux portent sur l'ingénierie logicielle, pas sur l'IA :
 
